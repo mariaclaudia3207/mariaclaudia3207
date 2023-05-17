@@ -1,6 +1,6 @@
 - 👋 Olá! Me chamo Maria Claudia
 - :rocket:	:airplane: Sou graduanda em Engenharia Aeroespacial na UnB	:artificial_satellite:	
-- :computer:	 Técnica em Informática para Internet pelo Instituto Federal 
+- :computer:	 Informática para Internet pelo Instituto Federal 
 - :artificial_satellite: Estagiária na Agência Espacial Brasileira (AEB)
 - 📫 maria.gaspar@aeb.gov.br
 
